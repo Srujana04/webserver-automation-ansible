@@ -3,7 +3,7 @@
 An Ansible project that automates Apache webserver installation and configuration on remote servers.
 
 ## Project Structure
-webserver-automation-ansible/
+webserver-automation-ansible/<br>
 ├── inventory.ini
 ├── site.yml
 ├── README.md
