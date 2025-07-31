@@ -1,4 +1,3 @@
-```
 ## Webserver Automation with Ansible
 
 An Ansible project that automates Apache webserver installation and configuration on remote servers.
