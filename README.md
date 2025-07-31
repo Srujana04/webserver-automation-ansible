@@ -1,4 +1,5 @@
-```# Webserver Automation with Ansible
+```
+## Webserver Automation with Ansible
 
 An Ansible project that automates Apache webserver installation and configuration on remote servers.
 
@@ -19,4 +20,4 @@ webserver-automation-ansible/
 ## Tech Stack
 - Ansible
 - Ubuntu (via WSL)
-- Git & GitHub```
+- Git & GitHub
