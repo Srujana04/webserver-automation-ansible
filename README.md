@@ -4,17 +4,17 @@ An Ansible project that automates Apache webserver installation and configuratio
 
 ## Project Structure
 webserver-automation-ansible/<br>
-├── inventory.ini
-├── site.yml
-├── README.md
-├── roles/
-│   └── apache/
-│       ├── tasks/
-│       │   └── main.yml
-│       ├── handlers/
-│       │   └── main.yml
-│       ├── templates/
-│       │   └── index.html.j2
+├── inventory<br>
+├── site.yml<br>
+├── README.md<br>
+├── roles/<br>
+│   └── apache/<br>
+│       ├── tasks/<br>
+│       │   └── main.yml<br>
+│       ├── handlers/<br>
+│       │   └── main.yml<br>
+│       ├── templates/<br>
+│       │   └── index.html.j2<br>
 
 ## Tech Stack
 - Ansible
